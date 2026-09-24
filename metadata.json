@@ -1,0 +1,6 @@
+{
+  "name": "AuraTask - Modern Task Management",
+  "description": "A modern, responsive task management web app with persistent storage, priority workflows, category filters, and real-time dashboard analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
